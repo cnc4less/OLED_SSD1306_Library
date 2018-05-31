@@ -1,0 +1,22 @@
+OLED_SSD1306_I2C	KEYWORD1
+
+SSD1306_I2C	KEYWORD1
+
+
+init	KEYWORD2
+setCacheMode	KEYWORD2
+CachePutChar	KEYWORD2
+putCache	KEYWORD2
+setNormalDisplay	KEYWORD2
+setInverseDisplay	KEYWORD2
+setPageMode	KEYWORD2
+setHorizontalMode	KEYWORD2
+setCursor	KEYWORD2
+clear	KEYWORD2
+setBrightness	KEYWORD2
+putChar	KEYWORD2
+drawBitmap	KEYWORD2
+drawFullScreen	KEYWORD2
+setHorizontalScrollProperties	KEYWORD2
+activateScroll	KEYWORD2
+deactivateScroll	KEYWORD2
